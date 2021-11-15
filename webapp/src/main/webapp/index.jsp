@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>All is well </h1>
-    
+    <h2>Nothing is bad </h2>    
     <p>Please fill in this form to create an account.</p>
     <hr>
      
